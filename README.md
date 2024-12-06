@@ -4,7 +4,7 @@ Programador apaixonado por criar soluções inovadoras para web e mobile.
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61557470161375&_rdc=1&_rdr)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-toco-83ba84291/)
  
- [![Jeremias´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremiasToco)](https://github.com/anuraghazra/github-readme-stats)
+ [![JeremiasToco´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremiasToco)](https://github.com/anuraghazra/github-readme-stats)
  ![JeremiasToco's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremiasToco&show_icons=true&theme=radical)
   ### 🛠 Tecnologias:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
